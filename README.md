@@ -8,3 +8,5 @@ existem alguns eventListener nessa aplicação:
 3. ligar a lâmpada passando o mouse em cima
 4. desligar a lâmpada passando o mouse em cima
 5. quebrar a lâmpada com duplo-clique 
+
+link do pages: https://rioribeirods.github.io/lampadinha/
